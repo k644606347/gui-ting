@@ -1,0 +1,262 @@
+[
+  {
+    "id": "ENV01_世界区域_欧美奇幻",
+    "category": "environment",
+    "family": null,
+    "tier": null,
+    "path": "art/v11/ENV01_世界区域_欧美奇幻.png",
+    "new": true,
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "sha256": "7db9618e597ab7a479b622c37b411be4c7c2ddd2b9945fa598ec0ce6f5902937",
+    "alpha_range": null,
+    "status": "美术概念提案"
+  },
+  {
+    "id": "ENV02_石渡镇_欧美奇幻",
+    "category": "environment",
+    "family": null,
+    "tier": null,
+    "path": "art/v11/ENV02_石渡镇_欧美奇幻.png",
+    "new": true,
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "sha256": "7ba265c1af88ba7ec2163f29084b0253c49d714310085fa3acc0c58012fcf814",
+    "alpha_range": null,
+    "status": "美术概念提案"
+  },
+  {
+    "id": "ENV03_岚庭聚落_欧美奇幻",
+    "category": "environment",
+    "family": null,
+    "tier": null,
+    "path": "art/v11/ENV03_岚庭聚落_欧美奇幻.png",
+    "new": true,
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "sha256": "42b3afc1844093226067cf8ba0eeda96afe933a65825d568f5aa56449d68551d",
+    "alpha_range": null,
+    "status": "美术概念提案"
+  },
+  {
+    "id": "ENV04_乡村田园_欧美奇幻",
+    "category": "environment",
+    "family": null,
+    "tier": null,
+    "path": "art/v11/ENV04_乡村田园_欧美奇幻.png",
+    "new": true,
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "sha256": "7280c9bc0212f950833a77cccd8394c920ec89390bbb261929f276d75d3f64c9",
+    "alpha_range": null,
+    "status": "美术概念提案"
+  },
+  {
+    "id": "WPN_SPEAR_T2_包钢长枪",
+    "category": "equipment",
+    "family": "spear",
+    "tier": 2,
+    "path": "art/v11/WPN_SPEAR_T2_包钢长枪.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "sha256": "427d60ede34e19a649fddee36f27c79602dd05c61815c2b9c00edebe24beb909",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案"
+  },
+  {
+    "id": "WPN_SPEAR_T3_精锻长枪",
+    "category": "equipment",
+    "family": "spear",
+    "tier": 3,
+    "path": "art/v11/WPN_SPEAR_T3_精锻长枪.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "sha256": "51ea2f2721cc0cc4e52c182272af85caee3f6be9afc114e4f1446972754d9abb",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案"
+  },
+  {
+    "id": "ARM_SHIELD_T2_铁箍圆盾",
+    "category": "equipment",
+    "family": "shield",
+    "tier": 2,
+    "path": "art/v11/ARM_SHIELD_T2_铁箍圆盾.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "sha256": "51d4093ff29515f80f877079ec4f5ca4200c155aebda5cdfce0ddf2b63580878",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案"
+  },
+  {
+    "id": "ARM_SHIELD_T3_精钢圆盾",
+    "category": "equipment",
+    "family": "shield",
+    "tier": 3,
+    "path": "art/v11/ARM_SHIELD_T3_精钢圆盾.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "sha256": "6faea73b3246c7918da18d3219c7b6d2ca418d15dc82dfc2b55ebb9072ed1625",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案"
+  },
+  {
+    "id": "WPN_STAFF_T1_初制冰杖",
+    "category": "equipment",
+    "family": "staff",
+    "tier": 1,
+    "path": "art/v11/WPN_STAFF_T1_初制冰杖.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "sha256": "e27beddde0ecdebe529d6ea7b45433a9e4d0611215d7a80cb9205c74a464b5a6",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案"
+  },
+  {
+    "id": "WPN_STAFF_T3_精制冰杖",
+    "category": "equipment",
+    "family": "staff",
+    "tier": 3,
+    "path": "art/v11/WPN_STAFF_T3_精制冰杖.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "sha256": "deb2b9979541d19e5fdc3181d0567ae7bba7fabcac94445ddccc6176b621988c",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案"
+  },
+  {
+    "id": "ARM_CHEST_T1_皮革胸甲",
+    "category": "equipment",
+    "family": "chest",
+    "tier": 1,
+    "path": "art/v11/ARM_CHEST_T1_皮革胸甲.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "sha256": "8939b07a287068473e8ecb95e1f00ed2fb53c82a3aa1866e228776bbc5b7e18d",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案"
+  },
+  {
+    "id": "ARM_CHEST_T2_铁片胸甲",
+    "category": "equipment",
+    "family": "chest",
+    "tier": 2,
+    "path": "art/v11/ARM_CHEST_T2_铁片胸甲.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "sha256": "1aba7846442754dfeeb2ffc406f529d559132d98be2f6c2e03d5e503462da2d1",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案"
+  },
+  {
+    "id": "ARM_CHEST_T3_精钢胸甲",
+    "category": "equipment",
+    "family": "chest",
+    "tier": 3,
+    "path": "art/v11/ARM_CHEST_T3_精钢胸甲.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "sha256": "6918c1315bf31accd81d7317eafda513c61484c6f1c637bcb6b9f2c706ff2bf6",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案"
+  },
+  {
+    "id": "WPN_SPEAR_T1_木柄长枪",
+    "category": "equipment",
+    "family": "spear",
+    "tier": 1,
+    "path": "art/v10/ITM01_塞维长枪.png",
+    "new": false,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "sha256": "00e3feb078f6c1ee2dff00791cc168e142c139880e148b4ab9ea2a1acbcf7c2f",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案"
+  },
+  {
+    "id": "ARM_SHIELD_T1_木制圆盾",
+    "category": "equipment",
+    "family": "shield",
+    "tier": 1,
+    "path": "art/v10/ITM02_塞维圆盾.png",
+    "new": false,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "sha256": "c59d6ea2962250e6a8dc98d898efa67dafd22291bde7a5b772f4fba7c038f806",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案"
+  },
+  {
+    "id": "WPN_STAFF_T2_冰晶法杖",
+    "category": "equipment",
+    "family": "staff",
+    "tier": 2,
+    "path": "art/v10/ITM03_伊澜冰晶法杖.png",
+    "new": false,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "sha256": "8437dbf4fb31e5302beacc7ee3bd04abb204c39e1dfb798e8122d968b54753a0",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案"
+  }
+]
