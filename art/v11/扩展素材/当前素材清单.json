@@ -1,0 +1,585 @@
+[
+  {
+    "id": "ENV01_世界区域_欧美奇幻",
+    "category": "environment",
+    "family": null,
+    "tier": null,
+    "path": "art/v11/ENV01_世界区域_欧美奇幻.png",
+    "new": false,
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "sha256": "7db9618e597ab7a479b622c37b411be4c7c2ddd2b9945fa598ec0ce6f5902937",
+    "alpha_range": null,
+    "status": "美术概念提案"
+  },
+  {
+    "id": "ENV02_石渡镇_欧美奇幻",
+    "category": "environment",
+    "family": null,
+    "tier": null,
+    "path": "art/v11/ENV02_石渡镇_欧美奇幻.png",
+    "new": false,
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "sha256": "7ba265c1af88ba7ec2163f29084b0253c49d714310085fa3acc0c58012fcf814",
+    "alpha_range": null,
+    "status": "美术概念提案"
+  },
+  {
+    "id": "ENV03_岚庭聚落_欧美奇幻",
+    "category": "environment",
+    "family": null,
+    "tier": null,
+    "path": "art/v11/ENV03_岚庭聚落_欧美奇幻.png",
+    "new": false,
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "sha256": "42b3afc1844093226067cf8ba0eeda96afe933a65825d568f5aa56449d68551d",
+    "alpha_range": null,
+    "status": "美术概念提案"
+  },
+  {
+    "id": "ENV04_乡村田园_欧美奇幻",
+    "category": "environment",
+    "family": null,
+    "tier": null,
+    "path": "art/v11/ENV04_乡村田园_欧美奇幻.png",
+    "new": false,
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "sha256": "7280c9bc0212f950833a77cccd8394c920ec89390bbb261929f276d75d3f64c9",
+    "alpha_range": null,
+    "status": "美术概念提案"
+  },
+  {
+    "id": "WPN_SPEAR_T2_包钢长枪",
+    "category": "equipment",
+    "family": "spear",
+    "tier": 2,
+    "path": "art/v11/WPN_SPEAR_T2_包钢长枪.png",
+    "new": false,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "sha256": "427d60ede34e19a649fddee36f27c79602dd05c61815c2b9c00edebe24beb909",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案"
+  },
+  {
+    "id": "ARM_SHIELD_T2_铁箍圆盾",
+    "category": "equipment",
+    "family": "shield",
+    "tier": 2,
+    "path": "art/v11/ARM_SHIELD_T2_铁箍圆盾.png",
+    "new": false,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "sha256": "51d4093ff29515f80f877079ec4f5ca4200c155aebda5cdfce0ddf2b63580878",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案"
+  },
+  {
+    "id": "WPN_STAFF_T1_初制冰杖",
+    "category": "equipment",
+    "family": "staff",
+    "tier": 1,
+    "path": "art/v11/WPN_STAFF_T1_初制冰杖.png",
+    "new": false,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "sha256": "e27beddde0ecdebe529d6ea7b45433a9e4d0611215d7a80cb9205c74a464b5a6",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案"
+  },
+  {
+    "id": "WPN_STAFF_T3_精制冰杖",
+    "category": "equipment",
+    "family": "staff",
+    "tier": 3,
+    "path": "art/v11/WPN_STAFF_T3_精制冰杖.png",
+    "new": false,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "sha256": "deb2b9979541d19e5fdc3181d0567ae7bba7fabcac94445ddccc6176b621988c",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案"
+  },
+  {
+    "id": "ARM_CHEST_T1_皮革胸甲",
+    "category": "equipment",
+    "family": "chest",
+    "tier": 1,
+    "path": "art/v11/ARM_CHEST_T1_皮革胸甲.png",
+    "new": false,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "sha256": "8939b07a287068473e8ecb95e1f00ed2fb53c82a3aa1866e228776bbc5b7e18d",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案"
+  },
+  {
+    "id": "ARM_CHEST_T2_铁片胸甲",
+    "category": "equipment",
+    "family": "chest",
+    "tier": 2,
+    "path": "art/v11/ARM_CHEST_T2_铁片胸甲.png",
+    "new": false,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "sha256": "1aba7846442754dfeeb2ffc406f529d559132d98be2f6c2e03d5e503462da2d1",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案"
+  },
+  {
+    "id": "WPN_SPEAR_T1_木柄长枪",
+    "category": "equipment",
+    "family": "spear",
+    "tier": 1,
+    "path": "art/v10/ITM01_塞维长枪.png",
+    "new": false,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "sha256": "00e3feb078f6c1ee2dff00791cc168e142c139880e148b4ab9ea2a1acbcf7c2f",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案"
+  },
+  {
+    "id": "ARM_SHIELD_T1_木制圆盾",
+    "category": "equipment",
+    "family": "shield",
+    "tier": 1,
+    "path": "art/v10/ITM02_塞维圆盾.png",
+    "new": false,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "sha256": "c59d6ea2962250e6a8dc98d898efa67dafd22291bde7a5b772f4fba7c038f806",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案"
+  },
+  {
+    "id": "WPN_STAFF_T2_冰晶法杖",
+    "category": "equipment",
+    "family": "staff",
+    "tier": 2,
+    "path": "art/v10/ITM03_伊澜冰晶法杖.png",
+    "new": false,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "sha256": "8437dbf4fb31e5302beacc7ee3bd04abb204c39e1dfb798e8122d968b54753a0",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案"
+  },
+  {
+    "id": "WPN_SWORD_T1_赫铎朴素直剑",
+    "category": "equipment",
+    "family": "sword",
+    "tier": 1,
+    "path": "art/v11/扩展素材/WPN_SWORD_T1_赫铎朴素直剑.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "3caa87dce6f84a384684c8fd2f569390b98daa47e92aa56fb0bb50d32c8ff739"
+  },
+  {
+    "id": "WPN_SWORD_T2_赫铎宽刃剑",
+    "category": "equipment",
+    "family": "sword",
+    "tier": 2,
+    "path": "art/v11/扩展素材/WPN_SWORD_T2_赫铎宽刃剑.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "92ac67a64ad37435920a5a340963f8e175dd7fedac6069c0e79d23c88e08a9ce"
+  },
+  {
+    "id": "WPN_SWORD_T3_赫铎精锻长剑",
+    "category": "equipment",
+    "family": "sword",
+    "tier": 3,
+    "path": "art/v11/扩展素材/WPN_SWORD_T3_赫铎精锻长剑.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "8e50f1b0e91ecf60a0c88bcda7c8870424e4e664ff24b30af5910a312fa87090"
+  },
+  {
+    "id": "MED_KIT_T1_陶恩随行药包",
+    "category": "equipment",
+    "family": "medical_kit",
+    "tier": 1,
+    "path": "art/v11/扩展素材/MED_KIT_T1_陶恩随行药包.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "71ea40fb34e547fc526ce3e4cf075d0083107398e44f75accce3318b84438fab"
+  },
+  {
+    "id": "MED_KIT_T3_陶恩野战药箱",
+    "category": "equipment",
+    "family": "medical_kit",
+    "tier": 3,
+    "path": "art/v11/扩展素材/MED_KIT_T3_陶恩野战药箱.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "25b80052da37dce8fcb61f35a860d9e04e0c0a428a98563797935da6a733c6c8"
+  },
+  {
+    "id": "ACC_RING_木质婚戒",
+    "category": "accessory",
+    "family": "accessory",
+    "tier": null,
+    "path": "art/v11/扩展素材/ACC_RING_木质婚戒.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "24bf28ac47459187888c41263ac6efc2b108cec5db22b3566c37bb5faf645622"
+  },
+  {
+    "id": "ACC_BROOCH_旅人披风扣",
+    "category": "accessory",
+    "family": "accessory",
+    "tier": null,
+    "path": "art/v11/扩展素材/ACC_BROOCH_旅人披风扣.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "6cd1aa609dae71bb272ba0b2d2e9fcf9e0a3d1b6c3d9313c821b53d0ec7f7bc9"
+  },
+  {
+    "id": "ACC_PENDANT_疗者吊坠",
+    "category": "accessory",
+    "family": "accessory",
+    "tier": null,
+    "path": "art/v11/扩展素材/ACC_PENDANT_疗者吊坠.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "b06f0db311deda392cfc78958691de14a169194c7176add3c3abbc4435237987"
+  },
+  {
+    "id": "POT_HEAL_疗伤药剂",
+    "category": "potion",
+    "family": "potion",
+    "tier": null,
+    "path": "art/v11/扩展素材/POT_HEAL_疗伤药剂.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "57921ccce9d05cf1eb2acc3aa6f42e645b3bf181901120ba082c745a8c2a6b2a"
+  },
+  {
+    "id": "POT_STAMINA_体力药剂",
+    "category": "potion",
+    "family": "potion",
+    "tier": null,
+    "path": "art/v11/扩展素材/POT_STAMINA_体力药剂.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "11c8428f6e428dba750ebca2f55542fe7af1f0760f658f042879eb227fe10f38"
+  },
+  {
+    "id": "POT_ANTIDOTE_解毒药剂",
+    "category": "potion",
+    "family": "potion",
+    "tier": null,
+    "path": "art/v11/扩展素材/POT_ANTIDOTE_解毒药剂.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "6629afe3e88452fee59a14c09b740969ecec35c5f7c2b78dafa57ab8996467a3"
+  },
+  {
+    "id": "SUP_BANDAGE_干净绷带",
+    "category": "supply",
+    "family": "supply",
+    "tier": null,
+    "path": "art/v11/扩展素材/SUP_BANDAGE_干净绷带.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "cb5d714f5d6394b6a18fa508d93dedbc8bc37c458e990d576f1e960511a3c6da"
+  },
+  {
+    "id": "UTIL_LANTERN_提灯",
+    "category": "daily",
+    "family": "daily",
+    "tier": null,
+    "path": "art/v11/扩展素材/UTIL_LANTERN_提灯.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "36bdf48383fe38b131e91476071c35d6d4684c8d569e9ab8299eeacf61e95f5d"
+  },
+  {
+    "id": "UTIL_FLASK_皮革水壶",
+    "category": "daily",
+    "family": "daily",
+    "tier": null,
+    "path": "art/v11/扩展素材/UTIL_FLASK_皮革水壶.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "ac617f212a1705b0094288aa5cb41273495a767ea4b09a70642981ec17a26663"
+  },
+  {
+    "id": "UTIL_ROPE_行旅绳索",
+    "category": "daily",
+    "family": "daily",
+    "tier": null,
+    "path": "art/v11/扩展素材/UTIL_ROPE_行旅绳索.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "3c251c66cef22ae50f28b1c2b3acb40f0f64d8bc6a408d3fd904e3673bdd4e53"
+  },
+  {
+    "id": "UTIL_RATIONS_干粮包",
+    "category": "daily",
+    "family": "daily",
+    "tier": null,
+    "path": "art/v11/扩展素材/UTIL_RATIONS_干粮包.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "ba91fce430d4452c9b132bbc2b0db421aee31f77e85dbc396318d51f82adbd8c"
+  },
+  {
+    "id": "UTIL_LEDGER_居民名册",
+    "category": "daily",
+    "family": "daily",
+    "tier": null,
+    "path": "art/v11/扩展素材/UTIL_LEDGER_居民名册.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "cf41f29542d4eb5f7be32b74a0008d15a391541f66852aed74b5d8c80952b575"
+  },
+  {
+    "id": "UTIL_KEY_粮仓钥匙",
+    "category": "daily",
+    "family": "daily",
+    "tier": null,
+    "path": "art/v11/扩展素材/UTIL_KEY_粮仓钥匙.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "ef7e87ee50056468b32bfcbdb7b8e76a082f3d4321517e85401e28d05b16493e"
+  },
+  {
+    "id": "WPN_SPEAR_T3_翼刃精锻长枪",
+    "category": "equipment",
+    "family": "spear",
+    "tier": 3,
+    "path": "art/v11/扩展素材/WPN_SPEAR_T3_翼刃精锻长枪.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "3e35cef79764fed43cb2086420fa2c0746d3e8be1f4480978fb195e3dd3e7aef"
+  },
+  {
+    "id": "ARM_SHIELD_T3_棱缘精钢盾",
+    "category": "equipment",
+    "family": "shield",
+    "tier": 3,
+    "path": "art/v11/扩展素材/ARM_SHIELD_T3_棱缘精钢盾.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "8479bdfd66cc50636cd02b0f9dfacb3e892a23aa21a8a7f8de6086febae96d86"
+  },
+  {
+    "id": "ARM_CHEST_T3_肩甲连身钢铠",
+    "category": "equipment",
+    "family": "chest",
+    "tier": 3,
+    "path": "art/v11/扩展素材/ARM_CHEST_T3_肩甲连身钢铠.png",
+    "new": true,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "172a6d77b7fb92b1608d60d427f50b36210b9ea0db8068ce11fc5d1c9fe5e6e2"
+  },
+  {
+    "id": "MED_KIT_T2_陶恩常规药箱",
+    "category": "equipment",
+    "family": "medical_kit",
+    "tier": 2,
+    "path": "art/v10/ITM04_陶恩药箱.png",
+    "new": false,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "美术概念提案",
+    "sha256": "6fb44d4067a372d5d702c994a8f0eceb170f000a7d51efa247c92a502f763b9e"
+  }
+]
