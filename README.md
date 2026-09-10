@@ -5,7 +5,7 @@
 ## 文件结构
 
 - docs：带版本号的DOCX及同版本文字快照。DOCX为评审文档，MD为自动提取的可比较文字，不是另一份改写稿。
-- art/v03、art/v04：按章节编号保存PNG与位置索引。v03指插图分离版，v04为职业与魔法修订版。
+- art/v03、art/v04、art/v05：按章节编号保存PNG与位置索引。v03指插图分离版，v04为职业与魔法修订版，v05为伊澜冰系修订版。
 - history：修订记录。
 - scripts/docx_to_md.py：使用Python标准库提取DOCX中的段落与表格文字。
 
@@ -41,13 +41,6 @@ git tag v05
 
 ## 远程同步
 
-当前仅有本地仓库，尚未设置远程地址或推送。连接支持Git LFS的托管仓库后，首次推送历史版本需同时上传LFS对象：
+远程仓库：https://github.com/k644606347/gui-ting
 
-```bash
-git remote add origin <你的仓库地址>
-git lfs push --all origin
-git push -u origin main
-git push origin --tags
-```
-
-普通git bundle不含LFS实体文件，不能单独作为这些图片的完整备份。此次ZIP含本地历史与LFS对象，可独立恢复。
+正文和图片使用Git LFS。克隆后运行 `git lfs pull` 下载原文件；更新后运行 `git push origin main --follow-tags`。
