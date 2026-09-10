@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ENV01_世界区域概念",
+    "file": "ENV01_世界区域概念.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "alpha_range": null,
+    "status": "概念稿"
+  },
+  {
+    "id": "ENV02_石渡镇",
+    "file": "ENV02_石渡镇.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "alpha_range": null,
+    "status": "概念稿"
+  },
+  {
+    "id": "ENV03_岚庭聚落",
+    "file": "ENV03_岚庭聚落.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "alpha_range": null,
+    "status": "概念稿"
+  },
+  {
+    "id": "ENV04_乡村田园",
+    "file": "ENV04_乡村田园.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "alpha_range": null,
+    "status": "概念稿"
+  },
+  {
+    "id": "ITM01_塞维长枪",
+    "file": "ITM01_塞维长枪.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "概念稿"
+  },
+  {
+    "id": "ITM02_塞维圆盾",
+    "file": "ITM02_塞维圆盾.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "概念稿"
+  },
+  {
+    "id": "ITM03_伊澜冰晶法杖",
+    "file": "ITM03_伊澜冰晶法杖.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "概念稿"
+  },
+  {
+    "id": "ITM04_陶恩药箱",
+    "file": "ITM04_陶恩药箱.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "概念稿"
+  }
+]
